@@ -1,3 +1,3 @@
 #Demo
 
-Successfully created a demo-repository.
+Successfully created a demo-repository!
